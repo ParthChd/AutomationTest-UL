@@ -1,0 +1,16 @@
+{
+  "name": "userlane_automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.10.0",
+    "ng-recaptcha": "^7.0.1",
+    "typescript": "^5.0.4"
+  }
+}
